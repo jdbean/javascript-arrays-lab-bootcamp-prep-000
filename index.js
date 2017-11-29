@@ -21,6 +21,7 @@ function destructivelyRemoveFirstKitten() {
 
 function appendKitten(name) {
   var morekittens =  [name, ...kittens]
+  return morekittens
 }
 
 function prependKitten(name) {
