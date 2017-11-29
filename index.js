@@ -3,31 +3,31 @@ const app = "I don't do much."
 kittens = ['Milo', 'Otis', 'Garfield']
 
 function destructivelyAppendKitten(name) {
-  
+
 }
 
 function destructivelyPrependKitten(name) {
-  
+
 }
 
 function destructivelyRemoveLastKitten() {
-  
+
 }
 
 function destructivelyRemoveFirstKitten() {
-  
+  return array.shift(1)
 }
 
 function destructivelyPrependKitten(name) {
-  
+
 }
 
 function appendKitten(name) {
-  
+
 }
 
 function prependKitten(name) {
-  
+
 }
 
 function removeLastKitten() {
@@ -35,5 +35,5 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
-  
+
 }
